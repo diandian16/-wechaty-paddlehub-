@@ -1,4 +1,4 @@
-# -wechaty-paddlehub-
+# 漫游太空-wechaty-paddlehub-
 wechaty+paddle
 '你好，欢迎来到太空漫游指南1.0: 机器人目前的功能是\n- 收到八大星球的名称, 自动回复这个星球的介绍与图片\n- 收到"你的照片", 自动合成一张你的宇宙漫游照'
 可以在aistudio里面的脚本进行运行
